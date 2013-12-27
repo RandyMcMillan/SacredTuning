@@ -62,7 +62,7 @@ D 144htz (9 x 16)
 
 D# 153htz (9 x 17)
 
-E 324htz (9 x 18)
+E 162htz (9 x 18)
 F 172.8 htz
 F# 180 htz
 A 216 htz
