@@ -52,17 +52,17 @@ Ab 1/4b (9 x 11)
 
 A 108 htz (9 x 12)
 
-B 1/4b (9 x 13)
+B 1/4b 117 htz (9 x 13)
 
-C 1/4b (9 x 14)
+C 1/4b 126 htz (9 x 14)
 
-C# 135htz (9 x 15)
+C# 135 htz (9 x 15)
 
-D 144htz (9 x 16)
+D 144 htz (9 x 16)
 
-D# 153htz (9 x 17)
+D# 153 htz (9 x 17)
 
-E 162htz (9 x 18)
+E 162 htz (9 x 18)
 F 172.8 htz
 F# 180 htz
 A 216 htz
