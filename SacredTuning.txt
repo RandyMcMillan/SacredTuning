@@ -1,0 +1,83 @@
+Sacred Tuning in A=432htz
+
+Note: The tuning is based on multiples of 9.
+
+A 432htz converts to 4+3+2=9
+
+When determining cents select the decimal value that adds to a mutiple of 9.
+For example instead of
+Aflat 400htz select 400.5htz
+G 384.0htz select 384.3htz
+
+
+
+
+Harmonic series as follows:
+
+G 3htz (9 x 1/3)
+D 4.5htz (9 x 1/2)
+F 5.4 htz (9 x ?)
+G 6htz (9 x 2/3)
+Ab 6.3htz
+D 9 htz (9 x 1)
+F 10.8htz
+D 18 htz (9 x 2)
+F 21.6 htz
+F# 22.5 htz
+A 27 htz (9 x 3)
+D 36 htz (9 x 4)
+F 43.2 htz
+F# 45 htz (9 x 5)
+A 54 htz (9 x 6)
+
+C 1/4b (9 x 7)
+
+C# 67.5 htz
+D 72 htz (9 x 8)
+
+E 1/4# (9 x 9)
+
+F 86.4 htz
+F# 90 htz (9 x 10)
+
+Ab 1/4b (9 x 11)
+
+A 108 htz (9 x 12)
+
+B 1/4b (9 x 13)
+
+C 1/4b (9 x 14)
+
+C# 135htz (9 x 15)
+
+D 144htz (9 x 16)
+F 172.8 htz
+F# 180 htz
+A 216 htz
+Bb 225 htz
+C# 270 htz
+D 288 htz
+F 345.6 htz
+F# 360 htz
+
+A 432 htz (9 x 48)
+
+Bb 450 htz
+C# 540 htz
+D 576 htz
+691.2 htz
+F# 720 htz
+A 864 htz
+Bb 900 htz
+C# 1080 htz
+D 1152 htz
+F# 1440 htz
+A 1728 htz
+Bb 1800 htz
+D 2304 htz
+F# 2880 htz
+A 3456 htz
+Bb 3600 htz
+C# 4320 htz
+D 4608 htz
+
