@@ -78,8 +78,14 @@ Bb 225 htz
 C# 270 htz
 D 288 htz
 F 345.6 htz
-F# 360 htz
-
+F# 360 htz (9 x 40)
+    369 htz (9 x 41)
+  378 htz (9 x 42)
+  387 htz (9 x 43)
+  396 htz (9 x 44)
+  405 htz (9 x 45)
+  414 htz (9 x 46)
+  423 htz (9 x 47)
 A 432 htz (9 x 48)
 
 Bb 450 htz
